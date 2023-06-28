@@ -1,5 +1,3 @@
-> Note: I'm doing a full rebuild of this project with much more features... Committing to the [dev](https://github.com/Daniel31x13/link-warden/tree/dev) branch, stay tuned!
-
 <div align="center">
 <h1>
 Linkwarden
