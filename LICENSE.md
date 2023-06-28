@@ -1,5 +1,3 @@
-The following only applies to the "main" branch:
-
 MIT License
 
 Copyright (c) 2023 Daniel31x13
