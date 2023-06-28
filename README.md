@@ -5,13 +5,13 @@
 Linkwarden
 </h1>
 
-[Demo (outdated version)](https://linkwarden.netlify.app/) | [Intro & Motivation](https://github.com/Daniel31x13/linkwarden#intro--motivation) | [Features](https://github.com/Daniel31x13/linkwarden#features) | [Setup](https://github.com/Daniel31x13/linkwarden#setup) | [Development](https://github.com/Daniel31x13/linkwarden#linkwarden-development)
+[Demo (outdated version)](https://linkwarden.netlify.app/) | [Intro & Motivation](https://github.com/Daniel31x13/linkwarden#intro--motivation) | [Features](https://github.com/Daniel31x13/linkwarden#features) | [Setup](https://github.com/Daniel31x13/linkwarden#installation)
 
 </div>
 
 ## Intro & Motivation
 
-**LinkWarden is a self-hosted, open-source bookmark + archive manager to collect, and save websites for offline use.**
+**Linkwarden is a self-hosted, open-source bookmark + archive manager to collect, and save websites for offline use.**
 
 The objective is to have a self-hosted place to keep useful links in one place, and since useful links can go away (see the inevitability of [Link Rot](https://www.howtogeek.com/786227/what-is-link-rot-and-how-does-it-threaten-the-web/)), LinkWarden also saves a copy of the link as screenshot and PDF.
 
@@ -66,9 +66,3 @@ API_ADDRESS=192.168.1.14   # Default: localhost
 4. Head to the main folder using terminal and run: `(cd api && npm install) && npm install --legacy-peer-deps` for the dependencies.
 
 5. Run `npm start` to start the application.
-
-## LinkWarden Development
-
-All contributions are welcomed! But first please take a look at [how to contribute](.github/CONTRIBUTING.md).
-
-> **For questions/help, feature requests and bug reports please create an [issue](https://github.com/Daniel31x13/link-warden/issues) (please use the right lable).**
