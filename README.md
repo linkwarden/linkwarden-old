@@ -1,15 +1,8 @@
+> **Warning** The following repo is no longer maintained. We **highly** recommend exploring the significantly enhanced rebuild, which can be found *[here](https://github.com/linkwarden/linkwarden)*.
+
 <div align="center">
 <h1>
 Linkwarden
-
-<sub>A place for your useful links.</sub>
-
-<img src="assets/LinkWarden.png" alt="LinkWarden.png" width="500px"/>
-
-<a href="https://twitter.com/Daniel31X13" target="_blank" rel="noopener noreferrer"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Daniel31X13?label=twitter&amp;style=social"></a>
-
-![GitHub top language](https://img.shields.io/github/languages/top/daniel31x13/link-warden?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/daniel31x13/link-warden?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/daniel31x13/link-warden?style=flat-square)
-
 </h1>
 
 [Demo (outdated version)](https://linkwarden.netlify.app/) | [Intro & Motivation](https://github.com/Daniel31x13/linkwarden#intro--motivation) | [Features](https://github.com/Daniel31x13/linkwarden#features) | [Setup](https://github.com/Daniel31x13/linkwarden#setup) | [Development](https://github.com/Daniel31x13/linkwarden#linkwarden-development)
